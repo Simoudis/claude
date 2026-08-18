@@ -1,0 +1,11 @@
+{
+  "name": "simoudis-design-system",
+  "displayName": "Simoudis Design System",
+  "version": "0.1.0",
+  "description": "Applies the simoudis.com design system and site architecture rules when generating or reviewing code for the site.",
+  "author": {
+    "name": "John Simoudis",
+    "email": "john.simoudis@gmail.com"
+  },
+  "license": "MIT"
+}

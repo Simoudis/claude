@@ -1,0 +1,20 @@
+{
+  "name": "simoudis",
+  "owner": {
+    "name": "John Simoudis",
+    "email": "john.simoudis@gmail.com"
+  },
+  "description": "Plugin marketplace for simoudis.com tooling.",
+  "plugins": [
+    {
+      "name": "simoudis-design-system",
+      "source": "./plugins/simoudis-design-system",
+      "description": "Applies the simoudis.com design system (DESIGN.md/SITE.md) when generating or reviewing site code.",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Simoudis",
+        "email": "john.simoudis@gmail.com"
+      }
+    }
+  ]
+}
