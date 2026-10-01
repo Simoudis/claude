@@ -14,3 +14,7 @@ web: headless, `--no-sandbox` (sessions run as root), pinned to
 `@playwright/mcp@0.0.83`, using the preinstalled Chromium. Set
 `PLAYWRIGHT_CHROMIUM` to point at a different browser locally. The
 environment's network policy must allow each site you analyze.
+
+Local change: removed the trailing `;` after the function in
+`references/extract.js`. With it, `browser_evaluate` in
+`@playwright/mcp@0.0.83` fails with `SyntaxError: Unexpected token ';'`.
