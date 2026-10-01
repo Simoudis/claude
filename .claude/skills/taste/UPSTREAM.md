@@ -8,3 +8,9 @@ the upstream `docs/` landing-page assets (~10 MB) are omitted.
 
 Requires the Playwright MCP server:
 `claude mcp add playwright -s user -- npx -y @playwright/mcp@latest --isolated`
+
+In this repo the server is configured in `/.mcp.json` for Claude Code on the
+web: headless, `--no-sandbox` (sessions run as root), pinned to
+`@playwright/mcp@0.0.83`, using the preinstalled Chromium. Set
+`PLAYWRIGHT_CHROMIUM` to point at a different browser locally. The
+environment's network policy must allow each site you analyze.
