@@ -6,7 +6,8 @@
     "instagram-skills": {
       "source": {
         "source": "github",
-        "repo": "sergebulaev/instagram-skills"
+        "repo": "sergebulaev/instagram-skills",
+        "ref": "v1.0.32"
       }
     }
   }
