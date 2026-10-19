@@ -1,5 +1,10 @@
 # voice.md
 
+> **Routing:** if the request names `@jerryroseevents`,
+> `@jerryrosehomeandgarden` or Jerry Rose, stop reading this file and use
+> `voices/jerry-rose.md` (next to this file) instead. Everything below is
+> John Simoudis's personal voice only.
+
 Every skill in the Instagram pack reads this file. Seeded from the
 `john-simoudis-brand` skill and four answers given on 2026-10-19. Anything
 marked TODO is unknown and must not be guessed by a skill.
