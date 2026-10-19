@@ -87,14 +87,15 @@ in public copy.
 
 ### @jerryrosehomeandgarden
 
-- **Territory:** seasonal plantings, exterior design work and gardens:
-  entrances, steps, terraces, containers and outdoor living. The Year,
-  Curated.
-- **Emphasis:** how a house meets the season from the outside: containers,
+- **Territory:** seasonal plantings, exterior design work, gardens and
+  interiors: entrances, steps, terraces, containers, outdoor living and the
+  rooms inside. The Year, Curated.
+- **Emphasis:** how a house meets the season, outside and in: containers,
   vessels and planting, structure that stays while the season changes, and
-  the relationship between the garden and the house.
-- **Interiors:** TODO, does seasonal interior work (holiday decor, indoor
-  arrangements for the home) post here, on events, or not at all?
+  the relationship between the garden and the rooms.
+- **Interiors:** seasonal interior work for the home (holiday decor, indoor
+  compositions) posts here. An arrangement made for an event stays on
+  @jerryroseevents.
 - **Scope guard:** seasonal styling is not licensed landscape architecture.
   Do not promise maintenance unless contracted. Horticultural advice depends
   on site conditions (exposure, watering, drainage); ask before giving it.
@@ -105,9 +106,10 @@ in public copy.
 Both accounts show the same design intelligence. A post on one may echo a
 principle from the other; neither becomes a feed of the other.
 
-- **Floral work:** @jerryroseevents. Planted and garden work:
-  @jerryrosehomeandgarden. A cut arrangement is floral; a planted container
-  is home and garden.
+- **Floral work:** @jerryroseevents. Planted, garden and interior work:
+  @jerryrosehomeandgarden. A cut arrangement for an event is floral; a
+  planted container or a seasonal interior for a home is home and garden.
+  When it is unclear, the user decides; they name the account per photo.
 - **Flower ordering and gifting:** TODO, does "floral work" on events include
   everyday gifting, or does gifting stay off Instagram?
 - **Corporate work:** TODO, which account, if either?
