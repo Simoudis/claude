@@ -110,8 +110,9 @@ principle from the other; neither becomes a feed of the other.
   @jerryrosehomeandgarden. A cut arrangement for an event is floral; a
   planted container or a seasonal interior for a home is home and garden.
   When it is unclear, the user decides; they name the account per photo.
-- **Flower ordering and gifting:** TODO, does "floral work" on events include
-  everyday gifting, or does gifting stay off Instagram?
+- **Flower orders:** @jerryroseevents.
+- **Gifting:** not on Instagram. Do not write gifting posts or gifting asks
+  ("send flowers", "the perfect gift") on either account.
 - **Corporate work:** TODO, which account, if either?
 
 ## The Jerry Rose Point of View
