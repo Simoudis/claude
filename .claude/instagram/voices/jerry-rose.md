@@ -76,7 +76,8 @@ in public copy.
 
 ### @jerryroseevents
 
-- **Territory:** weddings and celebrations. The Art of Gathering.
+- **Territory:** event design and floral work: weddings, celebrations and
+  the floral design behind them. The Art of Gathering.
 - **Emphasis:** gathering and experience: arrival, transitions, the table
   from the guest's seat, dining, light as evening arrives, departure.
 - **Scope guard:** floral and event design does not automatically include
@@ -86,10 +87,14 @@ in public copy.
 
 ### @jerryrosehomeandgarden
 
-- **Territory:** seasonal environments, containers, interiors, outdoor
-  living. The Year, Curated.
-- **Emphasis:** seasonal living, containers, vessels and objects, and the
-  relationship between indoors and outdoors across the year.
+- **Territory:** seasonal plantings, exterior design work and gardens:
+  entrances, steps, terraces, containers and outdoor living. The Year,
+  Curated.
+- **Emphasis:** how a house meets the season from the outside: containers,
+  vessels and planting, structure that stays while the season changes, and
+  the relationship between the garden and the house.
+- **Interiors:** TODO, does seasonal interior work (holiday decor, indoor
+  arrangements for the home) post here, on events, or not at all?
 - **Scope guard:** seasonal styling is not licensed landscape architecture.
   Do not promise maintenance unless contracted. Horticultural advice depends
   on site conditions (exposure, watering, drainage); ask before giving it.
@@ -100,7 +105,11 @@ in public copy.
 Both accounts show the same design intelligence. A post on one may echo a
 principle from the other; neither becomes a feed of the other.
 
-- **Flower ordering and gifting:** TODO, which account carries it, or both?
+- **Floral work:** @jerryroseevents. Planted and garden work:
+  @jerryrosehomeandgarden. A cut arrangement is floral; a planted container
+  is home and garden.
+- **Flower ordering and gifting:** TODO, does "floral work" on events include
+  everyday gifting, or does gifting stay off Instagram?
 - **Corporate work:** TODO, which account, if either?
 
 ## The Jerry Rose Point of View
