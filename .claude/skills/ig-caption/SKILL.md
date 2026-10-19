@@ -2,10 +2,10 @@
 name: ig-caption
 description: >-
   Write the Instagram caption - the line that survives the "... more" cut, the
-  body, the single ask, the search terms and the three hashtags - and lint it
-  before it goes out. Use when the user says "write the caption", "caption this",
-  "what do I put in the description", has a reel or a carousel ready and needs
-  the text, or asks about hashtags.
+  body, the single ask and the search terms - and lint it before it goes out.
+  Use when the user says "write the caption", "caption this", "what do I put in
+  the description", or has a reel or a carousel ready and needs the text. The
+  hashtag set comes from ig-hashtag; a question only about hashtags goes there.
 ---
 
 # ig-caption
@@ -68,6 +68,11 @@ fail it.
 
 `#viral`, `#fyp`, `#explorepage`, `#foryou` describe nothing. Cut them.
 
+Do not pick the tags here. Hand the finished draft to `/ig-hashtag`, which
+sizes a niche / mid / broad set against what the caption is actually about,
+and paste its set onto the bottom line. This skill owns the count and the
+placement; that one owns the choice.
+
 ## Search terms matter more than hashtags now
 
 Instagram search reads the caption text. So the phrase the user wants to be
@@ -100,18 +105,20 @@ python3 caption.py draft.txt --keywords "client proposals,agency pricing"
 
 1. Decide Job A or Job B and say which.
 2. Draft it.
-3. Run `/ig-human` on it. Captions are short, so slop is louder here than
+3. Run `/ig-hashtag` on the draft and add its set as the last line. If the
+   user said no hashtags, skip this and say so in the receipt.
+4. Run `/ig-human` on it. Captions are short, so slop is louder here than
    anywhere else in the pack.
-4. Run `caption.py` with the user's search terms. Fix every FAIL. Decide on
+5. Run `caption.py` with the user's search terms. Fix every FAIL. Decide on
    every WARN out loud rather than silently.
-5. Print the copy-ready block, then the receipt:
+6. Print the copy-ready block, then the receipt:
 
 ```
 CAPTION READY
 job:        A - the reel carries the hook
 visible:    118 of 125 characters used before the cut
 ask:        one, comment CONTRACT
-hashtags:   3
+hashtags:   3 from /ig-hashtag (2 niche, 1 mid)
 search:     "client proposals" in line 3, "agency pricing" in line 5
 linter:     READY
 ```
