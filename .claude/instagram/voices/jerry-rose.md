@@ -189,7 +189,19 @@ slogan, and never as a claim of ownership.
 
   Never guess a handle or a vendor's role. If the user has not supplied them,
   leave `{{vendor role}}: {{@handle}}` and flag it. A caption with vendor
-  work in frame and missing credits is not ready to post. `/ig-viral` research may study
+  work in frame and missing credits is not ready to post.
+- **Collab posts.** Sometimes a post is a collaboration, published to both
+  accounts through Instagram's collaborator invite. Only when the user says
+  a post is a collab; never suggest one on your own. On a collab:
+  - The caption appears on both grids, so write it to stand for both:
+    Jerry Rose's part in "we" terms, the collaborator's part named plainly
+    and without claiming it.
+  - The vendor credit block still applies, including the collaborator.
+  - Add `collab: @handle (send the invite in the app)` to the receipt. The
+    invite is sent when posting and the collaborator must accept it; a skill
+    cannot do either.
+  - Featuring the collaborator's work on a collab is allowed. It is the one
+    exception to "we don't post other people's work". `/ig-viral` research may study
   others' formats but nothing from it is posted, quoted or reused.
 - **Never invent:** testimonials, awards, clients, press, partnerships,
   sustainability credentials, historical claims, service guarantees.
