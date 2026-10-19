@@ -25,6 +25,14 @@ copy communicates how the studio sees, designs and cares, not what it sells.
   `caption.py` warning about a missing ask is intended.
 - **Write as "we".** "I" only when the user explicitly asks for Jerry's or
   John's individual voice.
+- **The account is named with each photo.** The user says
+  `@jerryroseevents` or `@jerryrosehomeandgarden` per post. If a request does
+  not say which, ask; never guess from the image.
+- **Authorship:** a photo assigned to either account shows Jerry Rose Inc.
+  work, so "we designed / we planted / we composed" is accurate. Client
+  names, addresses and venues still need authorization.
+- **Photo credit:** every caption ends with its own last line,
+  `Photos: @simoudis`. All photographs are by John Simoudis.
 - **Never describe an image that has not been inspected.** No species,
   venue, date, client or authorship inferred from filenames, mood boards or
   renderings. Image pairings are suggestions until someone looks.
@@ -44,6 +52,10 @@ copy communicates how the studio sees, designs and cares, not what it sells.
 - **Places:** shop in Maplewood, New Jersey; studio in Summit, New Jersey.
   Design legacy beginning in 1989. Work throughout New Jersey, New York and
   beyond.
+- **Positioning:** Jerry Rose offers luxury design and services. Luxury is
+  the position, not the vocabulary: show it through specificity, materials,
+  judgment and care. Use the word "luxury" rarely in captions and never
+  stacked with other superlatives.
 - **Established line:** Curated by Nature.
 - **Homepage language:** Flowers are our Origin / Design is our Language.
 - **House style (working definition):** nature edited with an artist's eye,

@@ -32,14 +32,23 @@ file wins.
 ## Who I am
 
 - **Name:** John Simoudis
-- **Handle:** TODO
+- **Handle:** @simoudis (also the photo credit on the Jerry Rose accounts)
 - **What I do, in one sentence:** Creative director, brand strategist, writer
   and photographer who thinks architecturally across image, identity and
   meaning.
+- **Focus:** luxury. Architectural intelligence applied to luxury image,
+  identity and brands.
 - **Who I am talking to:** Capable, ambitious, experienced people: founders,
-  designers and brand leaders working at the edge of culture and style, whose
-  work still functions but may no longer reflect what they believe. Never
-  framed as broken, failing or in crisis.
+  designers and brand leaders in luxury, working at the edge of culture and
+  style, whose work still functions but may no longer reflect what they
+  believe. Never framed as broken, failing or in crisis.
+- **Luxury, my way:** my brand rejects generic luxury codes, florid luxury
+  language and commercial polish mistaken for originality. Write about luxury
+  through structure, material, judgment and meaning; never describe anything
+  as luxurious, exquisite or elevated. Earlier work associated with Cartier,
+  Bulgari and others is not to be named until I clear it, and the
+  provisional names Luxury OS, LBOS, Luxury Reverb and Modern Luxury
+  Strategist stay private.
 - **What I sell:** Nothing directly on this account yet. The book
   *Moving. Still.* (2026) is the one finished thing. Consulting concepts are
   provisional; do not present any as an available service.
