@@ -82,8 +82,7 @@ in public copy.
 - **Scope guard:** floral and event design does not automatically include
   full wedding planning, catering, transport or every production service.
   Do not imply it does.
-- **Link destination:** TODO (likely jerryrose.com/weddings or
-  /celebrations; confirm)
+- **Link destination:** jerryrose.com (link in bio; never in the caption)
 
 ### @jerryrosehomeandgarden
 
@@ -94,7 +93,7 @@ in public copy.
 - **Scope guard:** seasonal styling is not licensed landscape architecture.
   Do not promise maintenance unless contracted. Horticultural advice depends
   on site conditions (exposure, watering, drainage); ask before giving it.
-- **Link destination:** TODO (likely jerryrose.com/home-and-garden; confirm)
+- **Link destination:** jerryrose.com (link in bio; never in the caption)
 
 ### Shared
 

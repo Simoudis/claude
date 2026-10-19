@@ -148,5 +148,4 @@ with `{{your number}}`.
 
 - **My keyword CTA:** none, by choice.
 - **What the keyword sends them:** n/a
-- **Where my link goes:** TODO (candidates: simoudis.com,
-  movingstillbook.com, simoudisphotography.com; pick one)
+- **Where my link goes:** simoudis.com (link in bio; never in the caption)
