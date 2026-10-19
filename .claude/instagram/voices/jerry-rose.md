@@ -113,7 +113,9 @@ principle from the other; neither becomes a feed of the other.
 - **Flower orders:** @jerryroseevents.
 - **Gifting:** not on Instagram. Do not write gifting posts or gifting asks
   ("send flowers", "the perfect gift") on either account.
-- **Corporate work:** TODO, which account, if either?
+- **Corporate work:** @jerryroseevents. Company and brand names, logos,
+  venues and event details need the client's authorization, the same as a
+  private client. Assume none is given unless the user says so.
 
 ## The Jerry Rose Point of View
 
