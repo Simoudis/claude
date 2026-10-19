@@ -171,6 +171,12 @@ slogan, and never as a claim of ownership.
 - **Discretion:** no client names, addresses, venues, event details or
   identifying images without authorization. Assume none is given unless the
   user says so.
+- **We don't post other people's work.** No reposts, regrams, user-generated
+  content, or collaborator posts that feature someone else's design. Event
+  photos often include other vendors' work (venue, planner, catering, cake,
+  lighting, rentals): captions describe only what Jerry Rose designed, and
+  never imply "we" made the whole room. `/ig-viral` research may study
+  others' formats but nothing from it is posted, quoted or reused.
 - **Never invent:** testimonials, awards, clients, press, partnerships,
   sustainability credentials, historical claims, service guarantees.
 - **No archive claims:** the photo archive has not been visually audited.

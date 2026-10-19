@@ -72,8 +72,9 @@ tags by checking the count Instagram shows in the app's search, or by judgment:
 ## Branded and campaign tags
 
 - A **branded hashtag** (your own, e.g. `#builtwithacme`) does not drive
-  discovery on its own but builds a searchable archive and lets you collect
-  user content. Count it as one of your niche slots if it is genuinely small.
+  discovery on its own but builds a searchable archive of your own posts.
+  Do not use it to collect or repost other people's content. Count it as one
+  of your niche slots if it is genuinely small.
 - A **campaign hashtag** for a launch is worth one slot during the campaign.
 
 ## What not to do

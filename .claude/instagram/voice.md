@@ -119,6 +119,8 @@ visibility and scale as the measure of success. Those contradict the book.
 - **Clients, numbers or names I cannot say publicly:** TODO. Until filled in,
   name no client from the Behance archive and give no Jerry Rose detail
   beyond the framing below.
+- **I don't post other people's work.** No reposts, regrams or user-generated
+  content. Hook formulas built on someone else's result are out.
 - **Claims I am not allowed to make:** do not call me an architect (I think
   architecturally; no credential). No awards, exhibitions, press, education,
   client outcomes or consulting volume unless I supply them.
