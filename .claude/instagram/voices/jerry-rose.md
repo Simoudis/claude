@@ -217,6 +217,27 @@ slogan, and never as a claim of ownership.
 
 ## Video
 
-- **Format mix per account:** TODO (Reels, carousels, single images?)
-- **Who is on camera, if anyone:** TODO
-- **Pace:** TODO (for `beats.py --wpm`)
+Approved 2026-10-19 as a starting mix; revisit with `/ig-audit` once there
+is real data.
+
+| | @jerryrosehomeandgarden | @jerryroseevents |
+| --- | --- | --- |
+| Carousels | ~60%: one project as a sequence, wide to detail to material | ~50%: an event in order, arrival, room, table, detail, evening |
+| Single images | ~25%: the strongest single frames | ~20%: one defining detail |
+| Reels | ~15%: slow, ambient, no speech; moving through a space, light changing | ~30%: the room before guests arrive, setup as a time-lapse |
+
+- **Reels are made only when motion shows something stills cannot.** Never
+  for reach alone.
+- **Series idea (Home + Garden):** the same entrance from the same spot each
+  season, posted as a four-slide carousel at year's end. Shows The Year,
+  Curated instead of saying it.
+- **On camera:** nobody. Jerry Rose will not appear on camera. Hands at
+  work (arranging, planting, placing) are allowed. Clients and guests never
+  appear without written permission. John Simoudis is behind the camera.
+- **Speech:** none. Reels carry no voiceover and no one speaking to camera,
+  so `/ig-reel` produces on-screen text and a shot list, not a spoken
+  script. Keep on-screen text short and in the house voice.
+- **Pace:** not applicable (no voiceover). Time on-screen text by reading
+  speed instead: about 3 seconds per short line.
+- **Other vendors in motion:** a wide Reel of a room shows others' work too;
+  the vendor credit block applies to Reels as well as stills.
