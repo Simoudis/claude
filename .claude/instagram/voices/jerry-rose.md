@@ -175,7 +175,21 @@ slogan, and never as a claim of ownership.
   content, or collaborator posts that feature someone else's design. Event
   photos often include other vendors' work (venue, planner, catering, cake,
   lighting, rentals): captions describe only what Jerry Rose designed, and
-  never imply "we" made the whole room. `/ig-viral` research may study
+  never imply "we" made the whole room.
+- **Vendor credits.** When a photo includes vendor work, every vendor is
+  listed and credited with their Instagram handle, on its own lines after
+  the caption and before `Photos: @simoudis`:
+
+  ```
+  Venue: @handle
+  Planning: @handle
+  Lighting: @handle
+  Photos: @simoudis
+  ```
+
+  Never guess a handle or a vendor's role. If the user has not supplied them,
+  leave `{{vendor role}}: {{@handle}}` and flag it. A caption with vendor
+  work in frame and missing credits is not ready to post. `/ig-viral` research may study
   others' formats but nothing from it is posted, quoted or reused.
 - **Never invent:** testimonials, awards, clients, press, partnerships,
   sustainability credentials, historical claims, service guarantees.
