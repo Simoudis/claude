@@ -36,8 +36,14 @@ file wins.
 - **What I do, in one sentence:** Creative director, brand strategist, writer
   and photographer who thinks architecturally across image, identity and
   meaning.
-- **Focus:** luxury. Architectural intelligence applied to luxury image,
-  identity and brands.
+- **Focus (decided 2026-10-20):** the account leads with the book
+  *Moving. Still.* and the photography (decommissioned boats, hand-stippled
+  Polaroids, travel). Luxury is the lens, not the offer: do not position the
+  account as a luxury strategy service, because the consulting concepts are
+  still provisional.
+- **Bio (approved, 150 characters):** "Author of Moving. Still. Photography:
+  decommissioned boats, hand-stippled Polaroids, and the structure in
+  familiar things. Simoudis Image Design 1997."
 - **Who I am talking to:** Capable, ambitious, experienced people: founders,
   designers and brand leaders in luxury, working at the edge of culture and
   style, whose work still functions but may no longer reflect what they
