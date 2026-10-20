@@ -41,7 +41,7 @@ file wins.
   Polaroids, travel). Luxury is the lens, not the offer: do not position the
   account as a luxury strategy service, because the consulting concepts are
   still provisional.
-- **Bio (approved, 150 characters):** "Author of Moving. Still. Photography:
+- **Bio (proposed, not yet approved; 150 characters):** "Author of Moving. Still. Photography:
   decommissioned boats, hand-stippled Polaroids, and the structure in
   familiar things. Simoudis Image Design 1997."
 - **Who I am talking to:** Capable, ambitious, experienced people: founders,
