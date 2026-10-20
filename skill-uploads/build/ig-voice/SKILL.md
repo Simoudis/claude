@@ -47,3 +47,28 @@ say so in the scorecard:
   introduction to the studio (not to a person).
 
 `@simoudis` is a personal account; the rubric applies as written there.
+
+## ig-plan on these accounts
+
+`ig-plan` is written for growth accounts. For all three accounts, these
+replace its defaults:
+
+- **Cadence:** not fixed by the user yet. Suggest at most three posts per
+  account per week, label it a suggestion, and say "nothing worth posting
+  this week" when that is true. Never fill a slot just to keep a schedule.
+- **Format mix (Jerry Rose):** use the approved mix in `voices/jerry-rose.md`
+  (Home + Garden ~60% carousels / 25% singles / 15% Reels; Events ~50 / 20 /
+  30). Not "at least three Reels".
+- **Slot types:** plan by the four Point of View pillars (How We See, How
+  Nature Leads, How People Live, How Hospitality Feels), not Proof / Teach /
+  Opinion / Story / Offer. No hook formula numbers.
+- **Offer slot:** only when the user names a real, approved seasonal service.
+- **Photo source for every slot:** a new Dropbox shoot, an archive folder
+  (check capture date and client authorization), or a shot list for John.
+  Archive posts at most one in five. Never generate imagery of work that was
+  not done.
+- **No engagement round.** No comment lists, no buyer DMs. If useful, list
+  vendors or venues to credit or invite to a collab, only from real projects.
+- **Stories:** optional, not daily.
+- **@simoudis:** plan from the positions and photography series in
+  `voices/simoudis.md`; mostly carousels and images, rarely video.
