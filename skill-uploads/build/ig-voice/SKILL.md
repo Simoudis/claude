@@ -29,3 +29,21 @@ Inside `voices/simoudis.md`, the routing note at the top refers to
 Memory files (`log.md`, `swipe.md`, `plan.md`) that some skills mention do not
 persist between chats here. If one is missing, say so and carry on; ask the
 user to paste a previous plan or swipe file when it matters.
+
+## ig-profile on the Jerry Rose accounts
+
+The `ig-profile` rubric is written for personal growth accounts. When scoring
+`@jerryroseevents` or `@jerryrosehomeandgarden`, apply these exceptions and
+say so in the scorecard:
+
+- **photo:** the logo is correct for a studio account. Score it on legibility
+  at small size, not on a face.
+- **highlights:** never propose "Pricing" or "Results" highlights unless the
+  user supplies approved prices or real, authorized outcomes. Name highlights
+  for the account's territory instead (for example Weddings, Celebrations,
+  Corporate on events; Seasonal, Gardens, Interiors on home and garden).
+- **story_presence:** not required daily. Score it as optional.
+- **pinned_three:** best proof, clearest view of the service, and the best
+  introduction to the studio (not to a person).
+
+`@simoudis` is a personal account; the rubric applies as written there.
